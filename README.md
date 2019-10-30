@@ -1,3 +1,3 @@
 # Color_Thresholding_OpenCV
 
-A simple Python code demonstrating colour thresholding for 'brick-red' colour using OpenCV library
+A simple Python code demonstrating global colour thresholding for 'red' colour using OpenCV library
